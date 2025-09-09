@@ -1,6 +1,6 @@
 # Hi there, I'm Will 👋
 
-I'm a data focused engineer passionate about building scalable, end-to-end AI solutions that solve real-world problems. My core interest lies at the intersection of machine learning, system architecture, and product development—transforming complex data into impactful, production-ready applications.
+I'm a data focused engineer passionate about building scalable, end-to-end AI solutions that solve real-world problems. My core interest lies at the intersection of machine learning, system architecture, and product development transforming complex data into impactful, production ready applications.
 
 I am also a freelance researcher, currently working on a computer vision paper for the CVPR dataset track. 
 
@@ -8,7 +8,7 @@ I am also a freelance researcher, currently working on a computer vision paper f
 
 ### 🛠️ My Tech Stack
 
-My toolkit includes a range of technologies for machine learning, data processing, and application development.
+My toolkit includes a range of technologies for machine learning, data processing, and application development:
 
 **AI & Machine Learning:**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
