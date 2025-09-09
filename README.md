@@ -33,6 +33,6 @@ My toolkit includes a range of technologies for machine learning, data processin
 
 ### 📫 Get In Touch
 
--   **LinkedIn:** [Linkedin](https://www.linkedin.com/in/william-knott-911b471b4/)
--   **Blog:** [Blog](https://medium.com/@willkn)
--   **Email:** [williamknott00@gmail.com](mailto:williamknott00@gmail.com)
+-   [Linkedin](https://www.linkedin.com/in/william-knott-911b471b4/)
+-   [Blog](https://medium.com/@willkn)
+-   [Email](mailto:williamknott00@gmail.com)
