@@ -1,8 +1,8 @@
 # Hi there, I'm Will 👋
 
-I'm a data focused engineer passionate about building scalable, end-to-end AI solutions that solve real-world problems. My core interest lies at the intersection of machine learning, system architecture, and product development transforming complex data into impactful, production ready applications.
+I'm a data focused engineer passionate about building scalable, end-to-end AI solutions that solve real-world problems. My core interest lies at the intersection of machine learning, system architecture, and product development, transforming complex data into impactful, production ready applications.
 
-I am also an independent researcher, currently working on an attention steering paper. 
+I am also an independent researcher, currently working on an attention steering paper and a mechanistic interpretability paper (see SAE-Gini). 
 
 ---
 
